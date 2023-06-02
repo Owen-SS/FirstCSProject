@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owenstaddon/Desktop/Programming projects/C# projects/First Project/First Project/First Project.csproj",
-      "projectName": "First Project",
-      "projectPath": "/Users/owenstaddon/Desktop/Programming projects/C# projects/First Project/First Project/First Project.csproj",
+      "projectUniqueName": "/Users/owenstaddon/Desktop/Programming projects/C# projects/First Project/ClassesAndObjects/ClassesAndObjects.csproj",
+      "projectName": "ClassesAndObjects",
+      "projectPath": "/Users/owenstaddon/Desktop/Programming projects/C# projects/First Project/ClassesAndObjects/ClassesAndObjects.csproj",
       "packagesPath": "/Users/owenstaddon/.nuget/packages/",
-      "outputPath": "/Users/owenstaddon/Desktop/Programming projects/C# projects/First Project/First Project/obj/",
+      "outputPath": "/Users/owenstaddon/Desktop/Programming projects/C# projects/First Project/ClassesAndObjects/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/owenstaddon/.nuget/NuGet/NuGet.Config"

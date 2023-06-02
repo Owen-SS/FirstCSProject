@@ -5,7 +5,7 @@ public class Person
     public string LastName { get; set; }
 
     public int Age { get; set; }
-    
+
     //Fields
     private double _salary { get; set; }
 
@@ -22,5 +22,10 @@ public class Person
     public string getFullName()
     {
         return $"{FirstName} {LastName}";
+    }
+
+    public string getFullName(string middlename)
+    {
+        return $"{FirstName} {middlename} {LastName}";
     }
 }
