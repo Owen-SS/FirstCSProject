@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAndObjects", "ClassesAndObjects\ClassesAndObjects.csproj", "{0961BA49-D6BC-465F-95FC-2B4E81E92957}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{FE521CE5-B3C5-481E-843D-3AAF6449EC1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0961BA49-D6BC-465F-95FC-2B4E81E92957}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0961BA49-D6BC-465F-95FC-2B4E81E92957}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0961BA49-D6BC-465F-95FC-2B4E81E92957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE521CE5-B3C5-481E-843D-3AAF6449EC1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE521CE5-B3C5-481E-843D-3AAF6449EC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE521CE5-B3C5-481E-843D-3AAF6449EC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE521CE5-B3C5-481E-843D-3AAF6449EC1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
